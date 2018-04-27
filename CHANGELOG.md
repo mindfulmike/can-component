@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.11"></a>
+## [3.0.11](https://github.com/canjs/can-component/compare/v3.0.10...v3.0.11) (2018-04-27)
+
+
+### Bug Fixes
+
+* deps ([7fca1f6](https://github.com/canjs/can-component/commit/7fca1f6))
+
+
+
 <a name="3.0.10"></a>
 ## [3.0.10](https://github.com/canjs/can-component/compare/v3.0.9...v3.0.10) (2018-04-27)
 
